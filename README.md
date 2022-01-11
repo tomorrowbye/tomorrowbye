@@ -1,4 +1,4 @@
-## Hi, this is Tomorrowbye.
+## Hi, this is Tomorrowbye. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=tomorrowbye)
 
 <!-- introduction -->
 
