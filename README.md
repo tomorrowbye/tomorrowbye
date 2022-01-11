@@ -5,7 +5,7 @@
 - 📧 Reach me at [@email](mailto:244272004@qq.com).
 - 👨‍💻 Free like bird.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomorrowbye&show_icons=true)
+![Tomorrowbye's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomorrowbye&show_icons=true)
 
 
 
