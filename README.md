@@ -7,7 +7,7 @@
 
 ![Tomorrowbye's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomorrowbye&show_icons=true&theme=merko)
 
-[![Tomorrowbye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnnnny)](https://github.com/tomorrowbye/mankind)
+<!-- [![Tomorrowbye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomorrowbye)](https://github.com/tomorrowbye/mankind) -->
 <!-- 
 [![Tomorrowbye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomorrowbye)](https://github.com/tomorrowbye)
 
